@@ -1,10 +1,6 @@
-### **<div align="center">About ME😀</div>**  
-  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge" align="center" />
+</div>
 
 - **👋  Hi, I’m AmirHossein Ghanmi (Ch4120N)**  
   
