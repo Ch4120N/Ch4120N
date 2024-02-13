@@ -15,10 +15,9 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge" align="center"/>
 
-
-[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ch4120N)      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinghanami-ch4120n)      [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4120N)
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ch4120N)      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinghanami-ch4120n)      [![Telegram](https://img.shields.io/badge/Telegram-2B9BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4120N)
 <!-- <a href='https://www.linkedin.com/in/amirhosseinghanami-ch4120n' style='display : block'><img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin'></a>
 <a style='display : blocked'><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a> -->
 
@@ -48,8 +47,7 @@
 - **💞️  I’m looking to collaborate on Any type of security project**  
   
 
-- **📫  How to reach me: Ch4120ni@Gmail.com**  
-  
+- **📫  How to reach me: Ch4120ni@Gmail.com**
 
 <br>  
 
