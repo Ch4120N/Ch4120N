@@ -2,7 +2,7 @@
   <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
 </head>
 
-<style>
+<!-- <style>
   .header{
     float: center;
 }
@@ -11,7 +11,8 @@
     margin-left: 5px;
     font-size: small;
 }
-</style>
+</style> -->
+
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge" align="center" />
@@ -20,11 +21,13 @@
 
   <div class='header'>
     <br>
-    <ul>
-      <li><a href="https://github.com/Ch4120N"><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a></li>
-      <li><a href="https://www.linkedin.com/in/amirhosseinghanami-ch4120n"><img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin'></a></li>
-      <li><a href="mailto: ch4120ni@proton.me"><img src='https://img.shields.io/badge/Proton Mail-2d2d33?style=for-the-badge&logo=proton'></a></li>
+    <ul style='display: inline-block;margin-left: 5px;font-size: small;'>
+      <li style='display: inline-block;margin-left: 5px;font-size: small;'><a href="https://github.com/Ch4120N"><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a></li>
+      <li style='display: inline-block;margin-left: 5px;font-size: small;'><a href="https://www.linkedin.com/in/amirhosseinghanami-ch4120n"><img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin'></a></li>
+      <li style='display: inline-block;margin-left: 5px;font-size: small;'><a href="mailto: ch4120ni@proton.me"><img src='https://img.shields.io/badge/Proton Mail-2d2d33?style=for-the-badge&logo=proton'></a></li>
+      <br>
     </ul>
+    <br>
   </div>
 
 </div>
