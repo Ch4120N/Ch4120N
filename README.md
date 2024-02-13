@@ -16,21 +16,25 @@
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge" align="center" />
+  <br>
+  
+  [![Githun](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ch4120N)      [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosseinghanami-ch4120n)      [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4120N)
 <!-- <a href='https://www.linkedin.com/in/amirhosseinghanami-ch4120n' style='display : block'><img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin'></a>
 <a style='display : blocked'><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a> -->
 
-  <div class='header'>
+  <!--<div class='header'>
     <br>
     <ul style='display: inline-block;margin-left: 5px;font-size: small;text-decoration: none;'>
-      <li style='display: inline-block;margin-left: 5px;font-size: small;text-decoration: none;'><a href="https://github.com/Ch4120N"><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a></li>
+      <li style='display: inline-block;margin-left: 5px;font-size: small;text-decoration: none;'><a href="https://github.com/Ch4120N" style='text-decoration: none;'><img src='https://img.shields.io/badge/Github-24292E?style=for-the-badge&logo=github'></a></li>
       <li style='display: inline-block;margin-left: 5px;font-size: small;text-decoration: none;'><a href="https://www.linkedin.com/in/amirhosseinghanami-ch4120n"><img src='https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin'></a></li>
       <li style='display: inline-block;margin-left: 5px;font-size: small;text-decoration: none;'><a href="mailto: ch4120ni@proton.me"><img src='https://img.shields.io/badge/Proton Mail-2d2d33?style=for-the-badge&logo=proton'></a></li>
       <br>
     </ul>
     <br>
-  </div>
+  </div> -->
 
 </div>
+
 
 - **👋  Hi, I’m AmirHossein Ghanmi (Ch4120N)**  
   
