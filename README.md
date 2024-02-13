@@ -93,4 +93,6 @@
    <img src="https://skillicons.dev/icons?i=py,cs,c,cpp,ruby,perl,go,bash,powershell,linux,js,html,css,php,bootstrap,mysql,sqlite,nginx,nodejs,gitlab,github,git,django,docker,java,qt,visualstudio,vscode,arduino,flask,md,ps,raspberrypi,regex,wordpress"/>
 
 </p>
-<br />
+
+## ❤️ Donation 
+> bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
