@@ -54,7 +54,7 @@
 ![Ch4120N's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ch4120N&theme=github_dark&show_icons=true)  
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4120N&hide_progress=false&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4120N&hide_progress=true&theme=github_dark)  
   
 
 <br/>  
