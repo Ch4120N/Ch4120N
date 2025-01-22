@@ -95,4 +95,6 @@
 </p>
 
 ## ❤️ Donation 
-> bitcoin:   bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+> BITCOIN: bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+>
+> ETHEREUM: 0xfddbd535a4ad28792cbebceee3d6982d774e6d13
