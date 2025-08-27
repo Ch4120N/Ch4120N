@@ -47,7 +47,7 @@
 - **💞️  I’m looking to collaborate on Any type of security project**  
   
 
-- **📫  How to reach me: Ch4120ni@Gmail.com**
+- **📫  How to reach me: Ch4120N@Proton.me**
 
 <br>  
 
