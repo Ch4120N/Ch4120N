@@ -35,7 +35,7 @@
 
 ---
 
-- **👋  Hi, I’m AmirHossein Ghanmi (Ch4120N)**  
+- **👋  Hi, I’m Ch4120N**  
   
 
 - **👀  I’m interested in AI, Cybersecurity And Programming**  
