@@ -4,16 +4,17 @@
   Modern, animated, and visually engaging profile landing page in Markdown only.
 -->
 
-<!-- Animated Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=1AB9D7&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Animated Headline" />
-</p>
+
 
 <!-- Animated Banner (SVG/GIF placeholder) -->
 <p align="center">
-  <img src="https://github.com/Ch4120N/Ch4120N/blob/main/profile-anim.svg" width="85%" alt="Animated Banner" />
+  <img src="./images/animated/animated1.gif" width="85%" alt="Animated Banner" />
 </p>
 
+<!-- Animated Headline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=ff0000ff&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Animated Headline" height="100px" width="85%"/>
+</p>
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N"><img src="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N" alt="Visitors"></a>
@@ -139,8 +140,8 @@ Contact me for project requests, mentoring, or code reviews.
 
 - 🕹️ `sudo ./coffee.sh` returns: “Caffeine boost initialized!”
 - 💬 _“The quieter you become, the more you are able to hear.”_
-- 🐧 Linux is my OS of choice.
-<details>
+- **🐧 Linux is my OS of choice.**
+<!-- <details>
   <summary>ASCII Art</summary>
   
   ```
@@ -153,7 +154,7 @@ Contact me for project requests, mentoring, or code reviews.
                                         __/ |
                                        |___/ 
   ```
-</details>
+</details> -->
 
 ---
 
