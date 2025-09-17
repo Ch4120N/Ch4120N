@@ -15,8 +15,7 @@
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
   <a><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
-  <a href="https://github.com/Ch4120N?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ch4120N?style=for-the-badge
-  " alt="GitHub Followers"></a>
+  <a href="https://github.com/Ch4120N?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ch4120N?style=for-the-badge" alt="GitHub Followers"></a>
 </p>
 
 ---
