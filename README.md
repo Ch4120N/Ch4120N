@@ -199,7 +199,7 @@ Contact me for project requests, mentoring, or code reviews.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKH6jR0QF6jR3tq/giphy.gif" width="100" alt="Cool Hacker Animation" />
+  <img src="./images//animated/animated2.gif" width="100" alt="Cool Hacker Animation" />
   <br>
   <em>Star ⭐ your favorite projects and let's build the future together!</em>
 </p>
