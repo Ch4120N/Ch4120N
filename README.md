@@ -167,20 +167,6 @@ Contact me for project requests, mentoring, or code reviews.
 - 🕹️ `sudo ./coffee.sh` returns: “Caffeine boost initialized!”
 - 💬 _“The quieter you become, the more you are able to hear.”_
 - **🐧 Linux is my OS of choice.**
-<!-- <details>
-  <summary>ASCII Art</summary>
-
-  ```
-   _____ _           _     _   _
-  /  __ \ |         | |   | | (_)
-  | /  \/ |__   __ _| |_  | |_ _ _ __   __ _
-  | |   | '_ \ / _` | __| | __| | '_ \ / _` |
-  | \__/\ | | | (_| | |_  | |_| | | | | (_| |
-   \____/_| |_|\__,_|\__|  \__|_|_| |_|\__, |
-                                        __/ |
-                                       |___/
-  ```
-</details> -->
 
 ---
 
