@@ -193,7 +193,7 @@ Contact me for project requests, mentoring, or code reviews.
 
 ## 📜 License
 
-> All tools and scripts are open-source under the MIT License unless otherwise noted.  
+> All tools and scripts are open-source under the MIT/Or CGBL License unless otherwise noted.  
 > Use ethically and responsibly.
 
 ---
