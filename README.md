@@ -146,9 +146,9 @@ Contact me for project requests, mentoring, or code reviews.
 
 ## 🪙 Cryptocurrency Wallets
 
-- **BTC**: `your_bitcoin_wallet_address`
-- **ETH**: `your_ethereum_wallet_address`
-- **USDT**: `your_usdt_wallet_address`
+- **BTC**: `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0`
+- **ETH**: `0xfddbd535a4ad28792cbebceee3d6982d774e6d13`
+- **USDT**: `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`
   > _Support the creator: donations are appreciated!_
 
 ---
