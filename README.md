@@ -14,7 +14,7 @@
 </p>
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N"><img src="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N" alt="Visitors"></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N"><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
   <a href="https://github.com/Ch4120N?tab=followers"><img src="https://img.shields.io/github/followers/Ch4120N?label=Followers&style=flat&color=1AB9D7" alt="GitHub Followers"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-1AB9D7?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -34,14 +34,47 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 ## 🧠 Technical Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
-  <!-- Add or change icons to match your stack -->
+    <img src="./images/icons/python.png" width="40" height="40" alt="python" />
+    <img src="./images/icons/c.png" width="40" height="40" alt="c" />
+    <img src="./images/icons/cpp.png" width="40" height="40" alt="cpp" />
+    <img src="./images/icons/powershell.png" width="40" height="40" alt="powershell" />
+    <img src="./images/icons/js.png" width="40" height="40" alt="js" />
+    <img src="./images/icons/php.png" width="40" height="40" alt="php" />
+    <img src="./images/icons/go.png" width="40" height="40" alt="go" />
+    <img src="./images/icons/cs.png" width="40" height="40" alt="cs" />
+    <img src="./images/icons/html.png" width="40" height="40" alt="html" />
+    <img src="./images/icons/laravel.png" width="40" height="40" alt="laravel" />
+    <img src="./images/icons/nodejs.png" width="40" height="40" alt="nodejs" />
+    <img src="./images/icons/django.png" width="40" height="40" alt="django" />
+    <img src="./images/icons/flask.png" width="40" height="40" alt="flask" />
+    <img src="./images/icons/react.png" width="40" height="40" alt="react" />
+    <img src="./images/icons/dotnet.png" width="40" height="40" alt="dotnet" />
+    <img src="./images/icons/bootstrap.png" width="40" height="40" alt="bootstrap" />
+    <img src="./images/icons/electronjs.png" width="40" height="40" alt="electronjs" />
+    <img src="./images/icons/arduino.png" width="40" height="40" alt="arduino" />
+    <img src="./images/icons/unity.png" width="40" height="40" alt="unity" />
+    <img src="./images/icons/git.png" width="40" height="40" alt="git" />
+    <img src="./images/icons/github.png" width="40" height="40" alt="github" />
+    <img src="./images/icons/gitlab.png" width="40" height="40" alt="gitlab" />
+    <img src="./images/icons/nginx.png" width="40" height="40" alt="nginx" />
+    <img src="./images/icons/apache.png" width="40" height="40" alt="apache" />
+    <img src="./images/icons/litespeed.png" width="40" height="40" alt="litespeed" />
+    <img src="./images/icons/cloudflare.png" width="40" height="40" alt="cloudflare" />
+    <img src="./images/icons/linux.png" width="40" height="40" alt="linux" />
+    <img src="./images/icons/ubuntu.png" width="40" height="40" alt="ubuntu" />
+    <img src="./images/icons/debian.png" width="40" height="40" alt="debian" />
+    <img src="./images/icons/redhat.png" width="40" height="40" alt="redhat" />
+    <img src="./images/icons/centos.png" width="40" height="40" alt="centos" />
+    <img src="./images/icons/netbsd.png" width="40" height="40" alt="netbsd" />
+    <img src="./images/icons/freebsd.png" width="40" height="40" alt="freebsd" />
+    <img src="./images/icons/openbsd.png" width="40" height="40" alt="openbsd" />
+    <img src="./images/icons/docker.png" width="40" height="40" alt="docker" />
+    <img src="./images/icons/mysql.png" width="40" height="40" alt="mysql" />
+    <img src="./images/icons/mongodb.png" width="40" height="40" alt="mongodb" />
+    <img src="./images/icons/raspberrypi.png" width="40" height="40" alt="raspberrypi" />
+    <img src="./images/icons/wordpress.png" width="40" height="40" alt="wordpress" />
+    <img src="./images/icons/jetbrains.png" width="40" height="40" alt="clion" />
+    <img src="./images/icons/burpsuite.png" width="40" height="40" alt="burpsuite" />
 </p>
 
 ---
@@ -54,9 +87,9 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 - 🛠️ Open-Source Consulting & Code Review
 - 💡 Freelance: Development, Mentoring, Troubleshooting
 
----
+<!-- --- -->
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -66,12 +99,6 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
       </a>
       <br><sub>Easy DNS Changing Tool</sub>
     </td>
-    <!-- <td>
-      <a href="https://github.com/Ch4120N/Ch4120Nium">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Ch4120Nium&theme=radical" width="350"/>
-      </a>
-      <br><sub>Customized Chromium for Security</sub>
-    </td> -->
     <td>
       <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical" width="350"/>
@@ -80,18 +107,13 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/Ch4120N/Charon-SqlMap-Telegram-Bot-Module">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SqlMap-Telegram-Bot-Module&theme=radical" width="350"/>
-      </a>
-      <br><sub>sqlmap via Telegram Integration</sub>
-    </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Ch4120N&theme=radical&hide_border=true" alt="GitHub Stats Temporary">
 </p>
@@ -105,11 +127,10 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 ## 🌐 Social Media & Contact
 
 <p align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" title="LinkedIn"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="32" title="Telegram"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" title="Twitter"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" title="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-1ab9d7?style=flat&logo=firefox-browser&logoColor=white" height="32" title="Website"/></a>
+  <a href="mailto:Ch4120N@Proton.me" target="_blank"><img src="https://img.shields.io/badge/Proton-A581FF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+  <a href="https://github.com/Ch4120N" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Ch4120N"/></a>
+  <a href="https://t.me/Ch4120N" target="_blank"><img src="https://img.shields.io/badge/Telegram-2B9BD2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  
 </p>
 
 ---
