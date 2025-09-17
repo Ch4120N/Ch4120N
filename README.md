@@ -14,9 +14,9 @@
 </p>
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Ch4120N.Ch4120N"><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
-  <a href="https://github.com/Ch4120N?tab=followers"><img src="https://img.shields.io/github/followers/Ch4120N?label=Followers&style=flat&color=1AB9D7" alt="GitHub Followers"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-1AB9D7?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
+  <a href="https://github.com/Ch4120N?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ch4120N?style=for-the-badge
+  " alt="GitHub Followers"></a>
 </p>
 
 ---
