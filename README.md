@@ -1,10 +1,7 @@
-
 <!--
   Ch4120N's GitHub Profile README
   Modern, animated, and visually engaging profile landing page in Markdown only.
 -->
-
-
 
 <!-- Animated Banner (SVG/GIF placeholder) -->
 <p align="center">
@@ -29,6 +26,7 @@
 ```diff
 + Cybersecurity Architect | Linux Automation | Open Source Hacker
 ```
+
 Innovative, security-driven technologist focused on privacy, automation, and building robust tools for the modern digital landscape.
 
 ---
@@ -66,11 +64,17 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
       <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical" width="350"/>
       </a>
-      <br><sub>DNS Privacy & Performance Tool</sub>
+      <br><sub>Easy DNS Changing Tool</sub>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://github.com/Ch4120N/Ch4120Nium">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Ch4120Nium&theme=radical" width="350"/>
+      </a>
+      <br><sub>Customized Chromium for Security</sub>
+    </td> -->
+    <td>
+      <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical" width="350"/>
       </a>
       <br><sub>Customized Chromium for Security</sub>
     </td>
@@ -88,12 +92,13 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Ch4120N&theme=radical&hide_border=true" alt="GitHub Stats Temporary">
+</p>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&show_icons=true&theme=radical&hide_title=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ch4120N&bg_color=0d1117&color=1ab9d7&line=1ab9d7&point=FFFFFF&area=true&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
@@ -114,6 +119,7 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 ```diff
 + ✅ Available for freelance projects, consulting & collaborations!
 ```
+
 Contact me for project requests, mentoring, or code reviews.
 
 ---
@@ -123,7 +129,7 @@ Contact me for project requests, mentoring, or code reviews.
 - **BTC**: `your_bitcoin_wallet_address`
 - **ETH**: `your_ethereum_wallet_address`
 - **USDT**: `your_usdt_wallet_address`
-> _Support the creator: donations are appreciated!_
+  > _Support the creator: donations are appreciated!_
 
 ---
 
@@ -143,16 +149,16 @@ Contact me for project requests, mentoring, or code reviews.
 - **🐧 Linux is my OS of choice.**
 <!-- <details>
   <summary>ASCII Art</summary>
-  
+
   ```
-   _____ _           _     _   _             
-  /  __ \ |         | |   | | (_)            
-  | /  \/ |__   __ _| |_  | |_ _ _ __   __ _ 
+   _____ _           _     _   _
+  /  __ \ |         | |   | | (_)
+  | /  \/ |__   __ _| |_  | |_ _ _ __   __ _
   | |   | '_ \ / _` | __| | __| | '_ \ / _` |
   | \__/\ | | | (_| | |_  | |_| | | | | (_| |
    \____/_| |_|\__,_|\__|  \__|_|_| |_|\__, |
                                         __/ |
-                                       |___/ 
+                                       |___/
   ```
 </details> -->
 
@@ -168,14 +174,15 @@ Contact me for project requests, mentoring, or code reviews.
 
 ## 🧱 Certifications & Achievements
 
-- 🧪 Offensive Security 
-    * [ ] OSCP — Offensive Security Certified Professional (in progress) 
-    * [X] PWK — Penetration Testing with Kali Linux 
-- 🛡️ Ethical Hacking 
-    * [X] CEH — Certified Ethical Hacker 
-- 🎮 CTF & Practical Skills 
-    * [X] HackTheBox — Pro Hacker 
-    * [X] Top 10% in CTF Competitions
+- 🧪 Offensive Security
+  - [ ] OSCP — Offensive Security Certified Professional (in progress)
+  - [x] PWK — Penetration Testing with Kali Linux
+- 🛡️ Ethical Hacking
+  - [x] CEH — Certified Ethical Hacker
+- 🎮 CTF & Practical Skills
+  - [x] HackTheBox — Pro Hacker
+  - [x] Top 10% in CTF Competitions
+
 ---
 
 ## 📜 License
