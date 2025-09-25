@@ -113,10 +113,10 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 
 <!-- ## 📊 GitHub Stats -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&show_icons=true&theme=radical&hide_title=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true" height="170"/>
-</p> -->
+</p>
 
 ---
 
