@@ -86,37 +86,67 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
 - 🛠️ Open-Source Consulting & Code Review
 - 💡 Freelance: Development, Mentoring, Troubleshooting
 
-<!-- --- -->
+---
 
-<!-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical" width="350"/>
+      <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical" width="350" alt="Charon SMS Bomber"/>
       </a>
-      <br><sub>Easy DNS Changing Tool</sub>
+      <br><sub>A Powerful Irainian SMS Bomber Tool</sub>
     </td>
     <td>
-      <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical" width="350"/>
+      <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical" width="350" alt=" Charon DNS Changer"/>
       </a>
-      <br><sub>Customized Chromium for Security</sub>
+      <br><sub>Changing Easy And Fast DNSs</sub>
     </td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/Ch4120N/Charon-MD5-Hash-Cracker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-MD5-Hash-Cracker&theme=radical" width="350" alt="Charon MD5 Hash Cracker"/>
+      </a>
+      <br><sub>Fastest MD5 Hash Brute Force Tool</sub>
+    </td>
+    <td>
+      <a href="https://github.com/Ch4120N/Chobfuscate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Chobfuscate&theme=radical" width="350" alt="Chobfuscate"/>
+      </a>
+      <br><sub>Simple Python Obfuscate Tool</sub>
+    </td>
   </tr>
-</table> -->
+</table>
 
-<!-- --- -->
+---
 
-<!-- ## 📊 GitHub Stats -->
+## 📊 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical" alt="Streak Stats" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch4120N&theme=radical&layout=compact&border_radius=10&show_icons=true&locale=en" alt="Top Langs" height="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&show_icons=true&theme=radical" alt="Default Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Ch4120N&theme=radical" alt="Ch4120N's Trophys" height="100"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&show_icons=true&theme=radical&hide_title=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true" height="170"/>
-</p> -->
 
 ---
 
