@@ -147,7 +147,6 @@ Innovative, security-driven technologist focused on privacy, automation, and bui
   </table>
 </div>
 
-
 ---
 
 ## 🌐 Social Media & Contact
