@@ -10,7 +10,7 @@
 
 <!-- Animated Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=ff0000ff&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Animated Headline" height="100px" width="85%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=2000&repeat=false&color=ff0000ff&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Animated Headline" height="100px" width="85%"/>
 </p>
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
