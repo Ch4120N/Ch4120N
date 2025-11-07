@@ -183,11 +183,14 @@ Contact me for project requests, mentoring, or code reviews.
 
 #### **If you are Iranian, you can donate in Tomans through the Donate Daramet portal:**
 
-<a href="https://daramet.com/Ch4120N" target="_blank">
-  <img src="./images/icons/donate.png" 
-       alt="Donate Portal Daramet" 
-       height="50" />
-</a>
+<p>
+  <a href="https://daramet.com/Ch4120N" target="_blank">
+    <img src="./images/icons/donate.png" 
+         alt="Donate Portal Daramet" 
+         height="50" />
+  </a>
+</p>
+
 
 ---
 
