@@ -172,12 +172,22 @@ Contact me for project requests, mentoring, or code reviews.
 
 ---
 
-## 🪙 Cryptocurrency Wallets
+## ❤️ Support Me
 
-- **BTC**: `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0`
-- **ETH**: `0xfddbd535a4ad28792cbebceee3d6982d774e6d13`
-- **USDT**: `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`
+| Cryptocurrency |	Address |
+| :---: | :---:|
+| _**BTC**_ |	**`bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0`**
+| _**ETH**_	| **`0xfddbd535a4ad28792cbebceee3d6982d774e6d13`**
+| _**USDT**_ | **`3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`**
   > _Support the creator: donations are appreciated!_
+
+#### **If you are Iranian, you can donate in Tomans through the Donate Daramet portal:**
+
+<a href="https://daramet.com/Ch4120N" target="_blank">
+  <img src="./images/donate.png" 
+       alt="Donate Portal Daramet" 
+       height="50" />
+</a>
 
 ---
 
