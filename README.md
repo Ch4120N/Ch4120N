@@ -11,7 +11,9 @@
 
 <!-- Animated Typing Headline -->
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&repeat=false&pause=1500&color=FF0000&width=950&height=100&center=true&vCenter=true&multiline=true&lines=👋+Hi+there!+I'm+Ch4120N;🔥+Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;💻+Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher;⚡+Building+the+Future+of+Cybersecurity" alt="Ch4120N Animated Typing" width="85%" height="130px"/>
+
 </div>
 
 <!-- Profile Stats -->
@@ -28,9 +30,9 @@
 <!-- Main Header -->
 <div align="center">
   
-  <h1>
+  <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&repeat=false&lines=🔥+CYBERSECURITY+EXPERT+🔥" alt="Cybersecurity Expert" />
-  </h1>
+  </h2>
   
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=950&repeat=false&lines=Innovative+Security+Technologist+%7C+Privacy+Advocate+%7C+Open+Source+Enthusiast" alt="Tagline" width="85%" height="100px"/>
