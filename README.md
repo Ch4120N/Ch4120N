@@ -14,11 +14,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&repeat=false&pause=1500&color=FF0000&width=950&height=100&center=true&vCenter=true&multiline=true&lines=👋+Hi+there!+I'm+Ch4120N;🔥+Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;💻+Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher;⚡+Building+the+Future+of+Cybersecurity" alt="Ch4120N Animated Typing" width="85%" height="130px"/>
 </div>
 
-<!-- Visitor Counter & Quick Stats -->
-<p align="center">
-  <a><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
-  <a href="https://github.com/Ch4120N?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ch4120N?style=for-the-badge" alt="GitHub Followers"></a>
-</p>
+<!-- Profile Stats -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=Ch4120N&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ch4120N?color=FF0000&style=for-the-badge&label=FOLLOWERS&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Ch4120N?color=FF0000&logo=github&style=for-the-badge&label=STARS" alt="GitHub Stars" />
+  
+</div>
+
 
 ---
 
