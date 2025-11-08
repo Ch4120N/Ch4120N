@@ -439,6 +439,51 @@
 
 ---
 
+## ❤️ **Support My Work**
+
+<div align="center">
+  
+  <h2>💝 <strong>Support Open Source Development</strong></h2>
+  
+  <p>
+    <strong>Support Ch4120N's Open Source Security Projects</strong><br>
+    Your contributions help maintain and improve cybersecurity tools, penetration testing utilities, and automation scripts for the community.
+  </p>
+  
+  <table align="center">
+    <tr>
+      <th>Cryptocurrency</th>
+      <th>Address</th>
+    </tr>
+    <tr>
+      <td><strong>BTC</strong></td>
+      <td><code>bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0</code></td>
+    </tr>
+    <tr>
+      <td><strong>ETH</strong></td>
+      <td><code>0xfddbd535a4ad28792cbebceee3d6982d774e6d13</code></td>
+    </tr>
+    <tr>
+      <td><strong>USDT</strong></td>
+      <td><code>3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN</code></td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  > 💰 <i>Donations are appreciated and help fund open source security development!</i>
+  
+  <br>
+  
+  #### 🇮🇷 **For Iranian Supporters:**
+  
+  [![Daramet](./images/icons/donate.png)](https://daramet.com/Ch4120N)
+  
+</div>
+
+---
+
+
 ## 🚀 Featured Projects
 
 <div align="center">
