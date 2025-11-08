@@ -279,6 +279,36 @@
   </table>
 </div>
 
+---
+
+<div align="center">
+  
+  <h2>📈 <b>My GitHub Stats</b></h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch4120N&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15" alt="Top Languages" width="49%" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&border_radius=15&custom_title=🔥+Ch4120N%27s+GitHub+Statistics" alt="GitHub Stats" width="100%" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ch4120N&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%" />
+  
+</div>
+
+---
+
+
 ## 🛠️ Services Offered
 
 - 🔒 Cybersecurity & Pentesting
