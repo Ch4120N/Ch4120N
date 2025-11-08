@@ -23,6 +23,21 @@
   
 </div>
 
+<br>
+
+<!-- Main Header -->
+<div align="center">
+  
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&repeat=false&lines=🔥+CYBERSECURITY+EXPERT+🔥" alt="Cybersecurity Expert" />
+  </h1>
+  
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=950&repeat=false&lines=Innovative+Security+Technologist+%7C+Privacy+Advocate+%7C+Open+Source+Enthusiast" alt="Tagline" width="85%" height="100px"/>
+  </h3>
+  
+</div>
+
 
 ---
 
