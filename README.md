@@ -80,49 +80,155 @@
 
 ## 🧠 Technical Skills
 
-<p align="center">
-    <img src="./images/icons/python.png" width="40" height="40" alt="python" />
-    <img src="./images/icons/c.png" width="40" height="40" alt="c" />
-    <img src="./images/icons/cpp.png" width="40" height="40" alt="cpp" />
-    <img src="./images/icons/powershell.png" width="40" height="40" alt="powershell" />
-    <img src="./images/icons/js.png" width="40" height="40" alt="js" />
-    <img src="./images/icons/php.png" width="40" height="40" alt="php" />
-    <img src="./images/icons/go.png" width="40" height="40" alt="go" />
-    <img src="./images/icons/cs.png" width="40" height="40" alt="cs" />
-    <img src="./images/icons/html.png" width="40" height="40" alt="html" />
-    <img src="./images/icons/laravel.png" width="40" height="40" alt="laravel" />
-    <img src="./images/icons/nodejs.png" width="40" height="40" alt="nodejs" />
-    <img src="./images/icons/django.png" width="40" height="40" alt="django" />
-    <img src="./images/icons/flask.png" width="40" height="40" alt="flask" />
-    <img src="./images/icons/react.png" width="40" height="40" alt="react" />
-    <img src="./images/icons/dotnet.png" width="40" height="40" alt="dotnet" />
-    <img src="./images/icons/bootstrap.png" width="40" height="40" alt="bootstrap" />
-    <img src="./images/icons/electronjs.png" width="40" height="40" alt="electronjs" />
-    <img src="./images/icons/arduino.png" width="40" height="40" alt="arduino" />
-    <img src="./images/icons/unity.png" width="40" height="40" alt="unity" />
-    <img src="./images/icons/git.png" width="40" height="40" alt="git" />
-    <img src="./images/icons/github.png" width="40" height="40" alt="github" />
-    <img src="./images/icons/gitlab.png" width="40" height="40" alt="gitlab" />
-    <img src="./images/icons/nginx.png" width="40" height="40" alt="nginx" />
-    <img src="./images/icons/apache.png" width="40" height="40" alt="apache" />
-    <img src="./images/icons/litespeed.png" width="40" height="40" alt="litespeed" />
-    <img src="./images/icons/cloudflare.png" width="40" height="40" alt="cloudflare" />
-    <img src="./images/icons/linux.png" width="40" height="40" alt="linux" />
-    <img src="./images/icons/ubuntu.png" width="40" height="40" alt="ubuntu" />
-    <img src="./images/icons/debian.png" width="40" height="40" alt="debian" />
-    <img src="./images/icons/redhat.png" width="40" height="40" alt="redhat" />
-    <img src="./images/icons/centos.png" width="40" height="40" alt="centos" />
-    <img src="./images/icons/netbsd.png" width="40" height="40" alt="netbsd" />
-    <img src="./images/icons/freebsd.png" width="40" height="40" alt="freebsd" />
-    <img src="./images/icons/openbsd.png" width="40" height="40" alt="openbsd" />
-    <img src="./images/icons/docker.png" width="40" height="40" alt="docker" />
-    <img src="./images/icons/mysql.png" width="40" height="40" alt="mysql" />
-    <img src="./images/icons/mongodb.png" width="40" height="40" alt="mongodb" />
-    <img src="./images/icons/raspberrypi.png" width="40" height="40" alt="raspberrypi" />
-    <img src="./images/icons/wordpress.png" width="40" height="40" alt="wordpress" />
-    <img src="./images/icons/jetbrains.png" width="40" height="40" alt="clion" />
-    <img src="./images/icons/burpsuite.png" width="40" height="40" alt="burpsuite" />
-</p>
+<div align="center">
+
+<table>
+    <!-- 💻 Programming Languages -->
+    <tr>
+        <td><strong>💻 Programming Languages</strong></td>
+        <td>
+            <img src="./images/icons/Python-Dark.svg" width="50" height="50" alt="Python" title="Python" />
+            <img src="./images/icons/C.svg" width="50" height="50" alt="C" title="C" />
+            <img src="./images/icons/CPP.svg" width="50" height="50" alt="C++" title="C++" />
+            <img src="./images/icons/CS.svg" width="50" height="50" alt="C#" title="C#" />
+            <img src="./images/icons/GoLang.svg" width="50" height="50" alt="Go" title="Go" />
+            <img src="./images/icons/Java-Dark.svg" width="50" height="50" alt="Java" title="Java" />
+            <img src="./images/icons/JavaScript.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+            <img src="./images/icons/TypeScript.svg" width="50" height="50" alt="TypeScript" title="TypeScript" />
+            <img src="./images/icons/PHP-Dark.svg" width="50" height="50" alt="PHP" title="PHP" />
+            <img src="./images/icons/Ruby.svg" width="50" height="50" alt="Ruby" title="Ruby" />
+            <img src="./images/icons/Rust.svg" width="50" height="50" alt="Rust" title="Rust" />
+            <img src="./images/icons/Lua-Dark.svg" width="50" height="50" alt="Lua" title="Lua" />
+            <img src="./images/icons/Perl.svg" width="50" height="50" alt="Perl" title="Perl" />
+            <img src="./images/icons/Bash-Dark.svg" width="50" height="50" alt="Bash" title="Bash" />
+            <img src="./images/icons/Powershell-Dark.svg" width="50" height="50" alt="PowerShell" title="PowerShell" />
+            <img src="./images/icons/HTML.svg" width="50" height="50" alt="HTML" title="HTML" />
+            <img src="./images/icons/CSS.svg" width="50" height="50" alt="CSS" title="CSS" />
+            <img src="./images/icons/Markdown-Dark.svg" width="50" height="50" alt="Markdown" title="Markdown" />
+            <img src="./images/icons/Regex-Dark.svg" width="50" height="50" alt="Regex" title="Regex" />
+        </td>
+    </tr>
+    <!-- 🧩 Frameworks & Libraries -->
+    <tr>
+        <td><strong>🧩 Frameworks & Libraries</strong></td>
+        <td>
+            <img src="./images/icons/React-Dark.svg" width="50" height="50" alt="React" title="React" />
+            <img src="./images/icons/NextJS-Dark.svg" width="50" height="50" alt="NextJS" title="NextJS" />
+            <img src="./images/icons/NodeJS-Dark.svg" width="50" height="50" alt="NodeJS" title="NodeJS" />
+            <img src="./images/icons/Django.svg" width="50" height="50" alt="Django" title="Django" />
+            <img src="./images/icons/Flask-Dark.svg" width="50" height="50" alt="Flask" title="Flask" />
+            <img src="./images/icons/Laravel-Dark.svg" width="50" height="50" alt="Laravel" title="Laravel" />
+            <img src="./images/icons/JQuery.svg" width="50" height="50" alt="jQuery" title="jQuery" />
+            <img src="./images/icons/Bootstrap.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap" />
+            <img src="./images/icons/TailwindCSS-Dark.svg" width="50" height="50" alt="TailwindCSS" title="TailwindCSS" />
+            <img src="./images/icons/MaterialUI-Dark.svg" width="50" height="50" alt="MaterialUI" title="MaterialUI" />
+            <img src="./images/icons/DotNet.svg" width="50" height="50" alt=".NET" title=".NET" />
+            <img src="./images/icons/CMake-Dark.svg" width="50" height="50" alt="CMake" title="CMake" />
+            <img src="./images/icons/QT-Dark.svg" width="50" height="50" alt="QT" title="QT" />
+        </td>
+    </tr>
+    <!-- 🛡️ Cyber Security -->
+    <tr>
+        <td><strong>🛡️ Cyber Security</strong></td>
+        <td>
+            <img src="./images/icons/Kali-Dark.svg" width="50" height="50" alt="Kali Linux" title="Kali Linux" />
+            <img src="./images/icons/burpsuite.png" width="50" height="50" alt="Burp Suite" title="Burp Suite" />
+            <img src="./images/icons/CHFI.png" width="50" height="50" alt="CHFI" title="CHFI" />
+            <img src="./images/icons/CPENT.png" width="50" height="50" alt="CPENT" title="CPENT" />
+            <img src="./images/icons/ceh.png" width="50" height="50" alt="CEH" title="CEH" />
+            <img src="./images/icons/Selenium.svg" width="50" height="50" alt="Selenium" title="Selenium" />
+        </td>
+    </tr>
+    <!-- 🗄️ Databases -->
+    <tr>
+        <td><strong>🗄️ Databases</strong></td>
+        <td>
+            <img src="./images/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL" title="MySQL" />
+            <img src="./images/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
+            <img src="./images/icons/MongoDB.svg" width="50" height="50" alt="MongoDB" title="MongoDB" />
+            <img src="./images/icons/SQLite.svg" width="50" height="50" alt="SQLite" title="SQLite" />
+        </td>
+    </tr>
+    <!-- ⚙️ DevOps & Cloud -->
+    <tr>
+        <td><strong>⚙️ DevOps & Cloud</strong></td>
+        <td>
+            <img src="./images/icons/Docker.svg" width="50" height="50" alt="Docker" title="Docker" />
+            <img src="./images/icons/Git.svg" width="50" height="50" alt="Git" title="Git" />
+            <img src="./images/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" title="GitHub" />
+            <img src="./images/icons/GitLab-Dark.svg" width="50" height="50" alt="GitLab" title="GitLab" />
+            <img src="./images/icons/GithubActions-Dark.svg" width="50" height="50" alt="GitHub Actions" title="GitHub Actions" />
+            <img src="./images/icons/AWS-Dark.svg" width="50" height="50" alt="AWS" title="AWS" />
+            <img src="./images/icons/Cloudflare-Dark.svg" width="50" height="50" alt="Cloudflare" title="Cloudflare" />
+            <img src="./images/icons/Vercel-Dark.svg" width="50" height="50" alt="Vercel" title="Vercel" />
+            <img src="./images/icons/Nginx.svg" width="50" height="50" alt="Nginx" title="Nginx" />
+            <img src="./images/icons/Npm-Dark.svg" width="50" height="50" alt="NPM" title="NPM" />
+            <img src="./images/icons/Anaconda-Dark.svg" width="50" height="50" alt="Anaconda" title="Anaconda" />
+        </td>
+    </tr>
+    <!-- 🧠 AI & Data Science -->
+    <tr>
+        <td><strong>🧠 AI & Data Science</strong></td>
+        <td>
+            <img src="./images/icons/TensorFlow-Dark.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />
+            <img src="./images/icons/PyTorch-Dark.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />
+        </td>
+    </tr>
+    <!-- 🧰 Tools & Editors -->
+    <tr>
+        <td><strong>🧰 Tools & Editors</strong></td>
+        <td>
+            <img src="./images/icons/VSCode-Dark.svg" width="50" height="50" alt="VS Code" title="VS Code" />
+            <img src="./images/icons/VSCodium-Dark.svg" width="50" height="50" alt="VSCodium" title="VSCodium" />
+            <img src="./images/icons/VisualStudio-Dark.svg" width="50" height="50" alt="Visual Studio" title="Visual Studio" />
+            <img src="./images/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Android Studio" title="Android Studio" />
+            <img src="./images/icons/Idea-Dark.svg" width="50" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+            <img src="./images/icons/PyCharm-Dark.svg" width="50" height="50" alt="PyCharm" title="PyCharm" />
+            <img src="./images/icons/PhpStorm-Dark.svg" width="50" height="50" alt="PhpStorm" title="PhpStorm" />
+            <img src="./images/icons/WebStorm-Dark.svg" width="50" height="50" alt="WebStorm" title="WebStorm" />
+            <img src="./images/icons/jetbrains.png" width="50" height="50" alt="JetBrains" title="JetBrains" />
+            <img src="./images/icons/Atom.svg" width="50" height="50" alt="Atom" title="Atom" />
+            <img src="./images/icons/Sublime-Dark.svg" width="50" height="50" alt="Sublime Text" title="Sublime Text" />
+            <img src="./images/icons/VIM-Dark.svg" width="50" height="50" alt="VIM" title="VIM" />
+            <img src="./images/icons/NeoVim-Dark.svg" width="50" height="50" alt="NeoVim" title="NeoVim" />
+            <img src="./images/icons/Arduino.svg" width="50" height="50" alt="Arduino" title="Arduino" />
+            <img src="./images/icons/CodePen-Dark.svg" width="50" height="50" alt="CodePen" title="CodePen" />
+            <img src="./images/icons/DevTo-Dark.svg" width="50" height="50" alt="Dev.to" title="Dev.to" />
+            <img src="./images/icons/StackOverflow-Dark.svg" width="50" height="50" alt="Stack Overflow" title="Stack Overflow" />
+            <img src="./images/icons/Notion-Dark.svg" width="50" height="50" alt="Notion" title="Notion" />
+            <img src="./images/icons/DiscordBots.svg" width="50" height="50" alt="Discord Bots" title="Discord Bots" />
+        </td>
+    </tr>
+    <!-- 🎨 Design & Frontend -->
+    <tr>
+        <td><strong>🎨 Design & Frontend</strong></td>
+        <td>
+            <img src="./images/icons/Figma-Dark.svg" width="50" height="50" alt="Figma" title="Figma" />
+            <img src="./images/icons/Illustrator.svg" width="50" height="50" alt="Illustrator" title="Illustrator" />
+            <img src="./images/icons/Photoshop.svg" width="50" height="50" alt="Photoshop" title="Photoshop" />
+            <img src="./images/icons/Wordpress.svg" width="50" height="50" alt="WordPress" title="WordPress" />
+        </td>
+    </tr>
+    <!-- 🐧 Operating Systems -->
+    <tr>
+        <td><strong>🐧 Operating Systems</strong></td>
+        <td>
+            <img src="./images/icons/Linux-Dark.svg" width="50" height="50" alt="Linux" title="Linux" />
+            <img src="./images/icons/Ubuntu-Dark.svg" width="50" height="50" alt="Ubuntu" title="Ubuntu" />
+            <img src="./images/icons/Debian-Dark.svg" width="50" height="50" alt="Debian" title="Debian" />
+            <img src="./images/icons/Arch-Dark.svg" width="50" height="50" alt="Arch Linux" title="Arch Linux" />
+            <img src="./images/icons/Mint-Dark.svg" width="50" height="50" alt="Linux Mint" title="Linux Mint" />
+            <img src="./images/icons/RedHat-Dark.svg" width="50" height="50" alt="Red Hat" title="Red Hat" />
+            <img src="./images/icons/Apple-Dark.svg" width="50" height="50" alt="Apple" title="Apple" />
+            <img src="./images/icons/Windows-Dark.svg" width="50" height="50" alt="Windows" title="Windows" />
+            <img src="./images/icons/BSD-Dark.svg" width="50" height="50" alt="BSD" title="BSD" />
+            <img src="./images/icons/openbsd.png" width="50" height="50" alt="OpenBSD" title="OpenBSD" />
+            <img src="./images/icons/RaspberryPi-Dark.svg" width="50" height="50" alt="Raspberry Pi" title="Raspberry Pi" />
+        </td>
+    </tr>
+</table>
+
+</div>
 
 ---
 
