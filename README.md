@@ -10,7 +10,7 @@
 
 <!-- Animated Headline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=2000&repeat=true&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there+👋+I'm+Ch4120N;Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher" alt="Ch4120N - Cybersecurity Expert | Automation Specialist | Open Source Innovation Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&color=FF0000&center=true&multiline=true&lines=Hi+there+%F0%9F%91%8B+I'm+Ch4120N;Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher" alt="Ch4120N - Cybersecurity Expert | Automation Specialist | Open Source Innovation Developer" />
 </div>
 
 <!-- Visitor Counter & Quick Stats -->
