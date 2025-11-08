@@ -78,7 +78,7 @@
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ **Tech Stack & Skills**
 
 <div align="center">
 
