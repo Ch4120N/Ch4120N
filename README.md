@@ -515,6 +515,31 @@
 
 ---
 
+## 🧩 **Fun Facts & Quotes**
+
+<div align="center">
+  
+  <h2>💭 <strong>Random Dev Quote</strong></h2>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+  <br><br>
+  
+  ```bash
+  $ sudo ./coffee.sh
+  # Caffeine boost initialized! ☕
+  ```
+  
+  > <i>"The quieter you become, the more you are able to hear."</i>
+  
+  <br>
+  
+  🐧 **Linux is my OS of choice** for security research and ethical hacking
+  
+</div>
+
+---
+
 
 ## 🚀 Featured Projects
 
