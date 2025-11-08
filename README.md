@@ -5,9 +5,9 @@
 -->
 
 <!-- Animated Banner (SVG/GIF placeholder) -->
-<p align="center">
-  <img src="./images/animated/animated1.gif" width="85%" alt="Animated Banner" />
-</p>
+<div align="center">
+  <img src="./images/animated/animated1.gif" width="100%" alt="Ch4120N Cybersecurity Expert Banner" />
+</div>
 
 <!-- Animated Headline -->
 <p align="center">
