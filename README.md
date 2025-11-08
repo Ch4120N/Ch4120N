@@ -232,6 +232,8 @@
 
 ---
 
+## 🚀 **Featured Projects**
+
 <div align="center">
   <h2>🔥 <strong>Top Open Source Cybersecurity Projects</strong> 🔥</h2>
 
@@ -281,6 +283,8 @@
 
 ---
 
+## 📊 **GitHub Statistics**
+
 <div align="center">
   
   <h2>📈 <b>My GitHub Stats</b></h2>
@@ -308,6 +312,8 @@
 
 ---
 
+## 🐍 **GitHub Contribution Snake**
+
 <div align="center">
   
   <h2>🐍 <b>My Contribution Graph</b></h2>
@@ -316,13 +322,86 @@
   
 </div>
 
-## 🛠️ Services Offered
+---
+## 💼 **Services & Expertise**
 
-- 🔒 Cybersecurity & Pentesting
-- ⚡ Linux Server Automation & Hardening
-- 🤖 Custom Tool/Bot Development
-- 🛠️ Open-Source Consulting & Code Review
-- 💡 Freelance: Development, Mentoring, Troubleshooting
+<div align="center">
+  
+  <h2>🛠️ <b>What I Do</b></h2>
+  
+  <table>
+    <tr>
+      <th>🔒 <b>Cybersecurity</b></th>
+      <th>⚡ <b>Automation</b></th>
+      <th>🤖 <b>Development</b></th>
+      <th>🛠️ <b>Consulting</b></th>
+    </tr>
+    <tr>
+      <td>
+        • Penetration Testing<br>
+        • Vulnerability Assessment<br>
+        • Security Audits<br>
+        • Ethical Hacking<br>
+        • Bug Bounty Hunting
+      </td>
+      <td>
+        • Linux Server Automation<br>
+        • System Hardening<br>
+        • Infrastructure Security<br>
+        • DevOps Solutions<br>
+        • CI/CD Pipelines
+      </td>
+      <td>
+        • Custom Security Tools<br>
+        • Telegram Bots<br>
+        • API Integrations<br>
+        • Open Source Projects<br>
+        • Full-Stack Development
+      </td>
+      <td>
+        • Code Review<br>
+        • Technical Consulting<br>
+        • Security Mentoring<br>
+        • Troubleshooting<br>
+        • Project Management
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+## 🧱 **Certifications & Achievements**
+
+<div align="center">
+
+  <h2>🏆 <strong>Professional Certifications</strong></h2>
+
+<table>
+  <tr>
+    <td><strong>🧪 Offensive Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OSCP-In_Progress-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0D1117" alt="OSCP" />
+      <img src="https://img.shields.io/badge/PWK-Complete-00FF00?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0D1117" alt="PWK" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ Ethical Hacking</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/CEH-Certified-FF0000?style=for-the-badge&logo=ec-council&logoColor=white&labelColor=0D1117" alt="CEH" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🎮 CTF & Competitions</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0D1117" alt="HackTheBox" />
+      <img src="https://img.shields.io/badge/CTF-Top_10%25-FF0000?style=for-the-badge&logo=ctftime&logoColor=white&labelColor=0D1117" alt="CTF" />
+      <img src="https://img.shields.io/badge/TryHackMe-Active-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117" alt="TryHackMe" />
+      </td>
+  </tr>
+</table>
+</div>
 
 ---
 
