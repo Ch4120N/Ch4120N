@@ -9,10 +9,11 @@
   <img src="./images/animated/animated1.gif" width="100%" alt="Ch4120N Cybersecurity Expert Banner" />
 </div>
 
-<!-- Animated Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=ff0000ff&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Animated Headline" height="100px" width="85%"/>
-</p>
+<!-- Animated Typing Headline -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&repeat=false&pause=1500&color=FF0000&width=950&height=100&center=true&vCenter=true&multiline=true&lines=👋+Hi+there!+I'm+Ch4120N;🔥+Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;💻+Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher;⚡+Building+the+Future+of+Cybersecurity" alt="Ch4120N Animated Typing" width="85%" height="130px"/>
+</div>
+
 <!-- Visitor Counter & Quick Stats -->
 <p align="center">
   <a><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="Visitors"></a>
