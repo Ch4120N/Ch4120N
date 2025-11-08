@@ -308,6 +308,13 @@
 
 ---
 
+<div align="center">
+  
+  <h2>🐍 <b>My Contribution Graph</b></h2>
+  
+  ![Snake animation](https://github.com/Ch4120N/Ch4120N/blob/main/dist/github-contribution-grid-snake.svg)
+  
+</div>
 
 ## 🛠️ Services Offered
 
