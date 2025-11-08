@@ -483,6 +483,38 @@
 
 ---
 
+## 🎯 **Goals & Roadmap**
+
+<div align="center">
+  
+  <h2>🚀 <strong>Future Plans</strong></h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🚀 Automation Excellence</strong><br>
+        Build comprehensive automation solutions
+      </td>
+      <td align="center">
+        <strong>📚 Advanced Security Training</strong><br>
+        Master AI & ML for cybersecurity
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>🌱 Community Contribution</strong><br>
+        Mentor and support open-source community
+      </td>
+      <td align="center">
+        <strong>🛡️ Privacy-First Development</strong><br>
+        Contribute to privacy-focused tools
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ## 🚀 Featured Projects
 
