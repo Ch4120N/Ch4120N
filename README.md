@@ -419,6 +419,26 @@
 
 ---
 
+## 💡 **Currently Learning**
+
+<div align="center">
+  
+  <table>
+    <tr>
+        <td>📚 <strong>Skills in Progress</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/OSCP-Studying-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0D1117" alt="OSCP" />
+          <img src="https://img.shields.io/badge/AI_ML-Exploring-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="AI/ML" />
+          <img src="https://img.shields.io/badge/Cloud_Security-Learning-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" alt="Cloud Security" />
+          <img src="https://img.shields.io/badge/Kubernetes-Mastering-FF0000?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" alt="Kubernetes" />
+          <img src="https://img.shields.io/badge/Blockchain-Exploring-FF0000?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0D1117" alt="Blockchain" />
+        </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
