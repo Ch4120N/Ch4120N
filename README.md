@@ -220,7 +220,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Ch4120N/Ch4120N/blob/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ch4120N/Ch4120N/blob/main/dist/github-contribution-grid-snake.svg)
   
 </div>
 
