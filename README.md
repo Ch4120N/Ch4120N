@@ -4,131 +4,188 @@
   SEO Optimized: Cybersecurity Expert | Penetration Tester | Linux Automation Specialist | Open Source Developer
 -->
 
-<!-- Animated Banner (SVG/GIF placeholder) -->
-<p align="center">
-  <img src="./images/animated/animated1.gif" width="85%" alt="Ch4120N Cybersecurity Expert - Penetration Testing and Linux Automation Professional Banner" />
-</p>
+<div align="center">
+  <img src="./images/animated/animated1.gif" width="100%" alt="Ch4120N Cybersecurity Expert - Penetration Testing and Linux Automation Professional Banner" />
+</div>
 
 <!-- Animated Headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=2000&repeat=false&color=ff0000ff&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi,+I'm+Ch4120N!;Cybersecurity+%7C+Automation+%7C+Open+Source+Innovation" alt="Ch4120N - Cybersecurity Expert | Automation Specialist | Open Source Innovation Developer" height="100px" width="85%"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=2000&repeat=true&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there+👋+I'm+Ch4120N;Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher" alt="Ch4120N - Cybersecurity Expert | Automation Specialist | Open Source Innovation Developer" />
+</div>
+
 <!-- Visitor Counter & Quick Stats -->
-<p align="center">
-  <a><img src="https://komarev.com/ghpvc/?username=Ch4120N&&style=for-the-badge&&abbreviated=true" alt="GitHub Profile Visitors - Ch4120N Cybersecurity Expert"></a>
-  <a href="https://github.com/Ch4120N?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Ch4120N?style=for-the-badge" alt="GitHub Followers - Ch4120N Open Source Developer"></a>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ch4120N&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS)
+  ![GitHub Followers](https://img.shields.io/github/followers/Ch4120N?color=FF0000&logo=github&style=for-the-badge&label=FOLLOWERS)
+  ![GitHub Stars](https://img.shields.io/github/stars/Ch4120N?color=FF0000&logo=github&style=for-the-badge&label=STARS)
+  
+</div>
 
 ---
 
-## 👋 Introduction & Personal Tagline
+<div align="center">
+  
+  ### 🔥 **Cybersecurity Architect | Linux Automation | Open Source Hacker** 🔥
+  
+</div>
+
+<div align="center">
+  
+  **Ch4120N** - Innovative, security-driven technologist and penetration testing expert focused on privacy, automation, and building robust cybersecurity tools for the modern digital landscape. Specializing in ethical hacking, Linux server hardening, and open-source security solutions.
+  
+</div>
+
+---
+
+## 🎯 **About Me**
+
+<div align="center">
 
 ```diff
-+ Cybersecurity Architect | Linux Automation | Open Source Hacker
++ 🔐 Cybersecurity Expert & Penetration Tester
++ ⚡ Linux Server Automation & Hardening Specialist
++ 🤖 Custom Security Tools & Bot Developer
++ 🛠️ Open Source Contributor & Security Researcher
++ 💡 Freelance Developer & Technical Consultant
 ```
 
-**Ch4120N** - Innovative, security-driven technologist and penetration testing expert focused on privacy, automation, and building robust cybersecurity tools for the modern digital landscape. Specializing in ethical hacking, Linux server hardening, and open-source security solutions.
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ch4120N&theme=redical&hide_border=true&area=true" alt="Ch4120N GitHub Activity Graph" width="100%" />
+  
+</div>
 
 ---
 
-## 🧠 Technical Skills & Programming Languages
+## 🛠️ **Tech Stack & Skills**
 
-**Programming & Scripting Languages:** Python, C, C++, PowerShell, JavaScript, PHP, Go, C#, HTML  
-**Web Frameworks:** Laravel, Node.js, Django, Flask, React, .NET, Bootstrap, Electron.js  
-**DevOps & Infrastructure:** Git, GitHub, GitLab, Nginx, Apache, LiteSpeed, Cloudflare, Docker  
-**Operating Systems:** Linux (Ubuntu, Debian, Red Hat, CentOS), BSD (NetBSD, FreeBSD, OpenBSD)  
-**Databases:** MySQL, MongoDB  
-**Security Tools:** Burp Suite (Penetration Testing), Custom Security Scripts  
-**Development Tools:** JetBrains IDEs, Arduino, Unity, Raspberry Pi, WordPress
+### **Programming Languages**
 
-<p align="center">
-    <img src="./images/icons/python.png" width="40" height="40" alt="Python Programming Language - Cybersecurity Automation Tools" />
-    <img src="./images/icons/c.png" width="40" height="40" alt="C Programming Language - System Security Development" />
-    <img src="./images/icons/cpp.png" width="40" height="40" alt="C++ Programming Language - High Performance Security Tools" />
-    <img src="./images/icons/powershell.png" width="40" height="40" alt="PowerShell Scripting - Windows Automation and Security" />
-    <img src="./images/icons/js.png" width="40" height="40" alt="JavaScript Programming - Web Security and Automation" />
-    <img src="./images/icons/php.png" width="40" height="40" alt="PHP Programming - Web Application Security" />
-    <img src="./images/icons/go.png" width="40" height="40" alt="Go Programming Language - Backend Security Services" />
-    <img src="./images/icons/cs.png" width="40" height="40" alt="C# Programming - .NET Security Applications" />
-    <img src="./images/icons/html.png" width="40" height="40" alt="HTML5 - Web Development and Security" />
-    <img src="./images/icons/laravel.png" width="40" height="40" alt="Laravel PHP Framework - Secure Web Applications" />
-    <img src="./images/icons/nodejs.png" width="40" height="40" alt="Node.js Runtime - Server-Side Security Tools" />
-    <img src="./images/icons/django.png" width="40" height="40" alt="Django Python Framework - Secure Web Development" />
-    <img src="./images/icons/flask.png" width="40" height="40" alt="Flask Python Framework - Lightweight Security APIs" />
-    <img src="./images/icons/react.png" width="40" height="40" alt="React JavaScript Framework - Frontend Security Applications" />
-    <img src="./images/icons/dotnet.png" width="40" height="40" alt=".NET Framework - Enterprise Security Solutions" />
-    <img src="./images/icons/bootstrap.png" width="40" height="40" alt="Bootstrap CSS Framework - Responsive Security Dashboards" />
-    <img src="./images/icons/electronjs.png" width="40" height="40" alt="Electron.js - Cross-Platform Security Applications" />
-    <img src="./images/icons/arduino.png" width="40" height="40" alt="Arduino - IoT Security and Hardware Hacking" />
-    <img src="./images/icons/unity.png" width="40" height="40" alt="Unity Game Engine - Security Training Simulations" />
-    <img src="./images/icons/git.png" width="40" height="40" alt="Git Version Control - Code Security Management" />
-    <img src="./images/icons/github.png" width="40" height="40" alt="GitHub - Open Source Security Projects Repository" />
-    <img src="./images/icons/gitlab.png" width="40" height="40" alt="GitLab - DevOps Security Pipeline" />
-    <img src="./images/icons/nginx.png" width="40" height="40" alt="Nginx Web Server - High Performance Security Infrastructure" />
-    <img src="./images/icons/apache.png" width="40" height="40" alt="Apache HTTP Server - Enterprise Security Hosting" />
-    <img src="./images/icons/litespeed.png" width="40" height="40" alt="LiteSpeed Web Server - Optimized Security Hosting" />
-    <img src="./images/icons/cloudflare.png" width="40" height="40" alt="Cloudflare CDN - DDoS Protection and Web Security" />
-    <img src="./images/icons/linux.png" width="40" height="40" alt="Linux Operating System - Server Security and Hardening" />
-    <img src="./images/icons/ubuntu.png" width="40" height="40" alt="Ubuntu Linux - Penetration Testing Distribution" />
-    <img src="./images/icons/debian.png" width="40" height="40" alt="Debian Linux - Stable Security Server Environment" />
-    <img src="./images/icons/redhat.png" width="40" height="40" alt="Red Hat Enterprise Linux - Enterprise Security Solutions" />
-    <img src="./images/icons/centos.png" width="40" height="40" alt="CentOS Linux - Production Security Servers" />
-    <img src="./images/icons/netbsd.png" width="40" height="40" alt="NetBSD - Secure Unix-like Operating System" />
-    <img src="./images/icons/freebsd.png" width="40" height="40" alt="FreeBSD - High Performance Security Server" />
-    <img src="./images/icons/openbsd.png" width="40" height="40" alt="OpenBSD - Security Focused Operating System" />
-    <img src="./images/icons/docker.png" width="40" height="40" alt="Docker Containerization - Secure Application Deployment" />
-    <img src="./images/icons/mysql.png" width="40" height="40" alt="MySQL Database - Secure Data Management" />
-    <img src="./images/icons/mongodb.png" width="40" height="40" alt="MongoDB NoSQL Database - Secure Document Storage" />
-    <img src="./images/icons/raspberrypi.png" width="40" height="40" alt="Raspberry Pi - IoT Security Projects and Automation" />
-    <img src="./images/icons/wordpress.png" width="40" height="40" alt="WordPress CMS - Secure Website Development" />
-    <img src="./images/icons/jetbrains.png" width="40" height="40" alt="JetBrains IDEs - Professional Security Development Tools" />
-    <img src="./images/icons/burpsuite.png" width="40" height="40" alt="Burp Suite - Professional Web Application Penetration Testing Tool" />
-</p>
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+  
+</div>
+
+### **Frameworks & Technologies**
+
+<div align="center">
+  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+  
+</div>
+
+### **DevOps & Infrastructure**
+
+<div align="center">
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  
+</div>
+
+### **Security Tools**
+
+<div align="center">
+  
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
+  
+</div>
+
+### **Databases**
+
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+</div>
+
+### **Operating Systems**
+
+<div align="center">
+  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+  ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+  ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+  ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+  
+</div>
 
 ---
 
-## 🛠️ Services Offered - Cybersecurity & Development Solutions
+## 🚀 **Featured Projects**
 
-- 🔒 **Cybersecurity & Penetration Testing** - Web application security audits, vulnerability assessments, ethical hacking services, and security consulting
-- ⚡ **Linux Server Automation & Hardening** - Server security configuration, automation scripts, system hardening, and infrastructure security
-- 🤖 **Custom Tool/Bot Development** - Security automation tools, Telegram bots, API integrations, and custom cybersecurity solutions
-- 🛠️ **Open-Source Consulting & Code Review** - Security code reviews, open-source project contributions, and technical consulting
-- 💡 **Freelance Development Services** - Full-stack development, security mentoring, troubleshooting, and technical support
-
----
-
-## 🚀 Featured Projects - Open Source Security Tools
-
-**Top Open Source Cybersecurity Projects by Ch4120N** - Penetration testing tools, security automation scripts, and ethical hacking utilities.
+<div align="center">
+  
+  **🔥 Top Open Source Cybersecurity Projects 🔥**
+  
+</div>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <a href="https://github.com/Ch4120N/Charon-SMS-Bomber" title="Charon SMS Bomber - Iranian SMS Testing Tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical" width="350" alt="Charon SMS Bomber - Powerful Iranian SMS Testing and Security Tool by Ch4120N"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="100%" alt="Charon SMS Bomber"/>
         </a>
-        <br><sub><strong>Charon SMS Bomber</strong> - A Powerful Iranian SMS Testing Tool for Security Research</sub>
+        <br>
+        <sub><b>Charon SMS Bomber</b></sub>
+        <br>
+        <sub>Powerful Iranian SMS Testing Tool</sub>
       </td>
-      <td>
-        <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0" title="Charon DNS Changer - Fast DNS Configuration Tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical" width="350" alt="Charon DNS Changer V1.0 - Easy and Fast DNS Configuration Tool by Ch4120N"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="100%" alt="Charon DNS Changer"/>
         </a>
-        <br><sub><strong>Charon DNS Changer</strong> - Changing DNS Settings Easy and Fast for Network Security</sub>
+        <br>
+        <sub><b>Charon DNS Changer</b></sub>
+        <br>
+        <sub>Fast DNS Configuration Tool</sub>
       </td>
     </tr>
     <tr>
-      <td>
-        <a href="https://github.com/Ch4120N/Charon-MD5-Hash-Cracker" title="Charon MD5 Hash Cracker - Password Cracking Tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-MD5-Hash-Cracker&theme=radical" width="350" alt="Charon MD5 Hash Cracker - Fastest MD5 Hash Brute Force Tool for Penetration Testing by Ch4120N"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-MD5-Hash-Cracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-MD5-Hash-Cracker&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="100%" alt="Charon MD5 Hash Cracker"/>
         </a>
-        <br><sub><strong>Charon MD5 Hash Cracker</strong> - Fastest MD5 Hash Brute Force Tool for Security Testing</sub>
+        <br>
+        <sub><b>Charon MD5 Hash Cracker</b></sub>
+        <br>
+        <sub>Fastest MD5 Brute Force Tool</sub>
       </td>
-      <td>
-        <a href="https://github.com/Ch4120N/Chobfuscate" title="Chobfuscate - Python Code Obfuscation Tool">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Chobfuscate&theme=radical" width="350" alt="Chobfuscate - Simple Python Code Obfuscation Tool for Security by Ch4120N"/>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Chobfuscate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Chobfuscate&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" width="100%" alt="Chobfuscate"/>
         </a>
-        <br><sub><strong>Chobfuscate</strong> - Simple Python Code Obfuscation Tool for Security and Privacy</sub>
+        <br>
+        <sub><b>Chobfuscate</b></sub>
+        <br>
+        <sub>Python Code Obfuscation Tool</sub>
       </td>
     </tr>
   </table>
@@ -136,141 +193,177 @@
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-**Ch4120N's GitHub Profile Analytics** - Contribution statistics, programming language usage, and open source activity metrics.
+## 📊 **GitHub Statistics**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical" alt="Ch4120N GitHub Contribution Streak - Daily Coding Activity Statistics" height="200"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch4120N&theme=radical&layout=compact&border_radius=10&show_icons=true&locale=en" alt="Ch4120N Top Programming Languages - Most Used Languages in Open Source Projects" height="200"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&show_icons=true&theme=radical" alt="Ch4120N GitHub Statistics - Total Contributions, Stars, Commits, and Repository Activity" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Ch4120N&theme=radical" alt="Ch4120N GitHub Profile Trophies - Achievements and Milestones in Open Source Development" height="100"/>
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch4120N&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" width="49%" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ch4120N&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&border_radius=10" alt="GitHub Stats" width="100%" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Ch4120N&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  
 </div>
 
 ---
 
-## 🌐 Social Media & Contact Information
+## 🐍 **GitHub Contribution Snake**
 
-**Connect with Ch4120N** - Cybersecurity expert, penetration tester, and open source developer. Available for freelance projects, security consulting, and collaboration opportunities.
-
-<p align="center">
-  <a href="mailto:Ch4120N@Proton.me" target="_blank" title="Contact Ch4120N via ProtonMail - Secure Email"><img src="https://img.shields.io/badge/Proton-A581FF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Secure Email Contact - Ch4120N Cybersecurity Expert"/></a>
-  <a href="https://github.com/Ch4120N" target="_blank" title="Ch4120N GitHub Profile - Open Source Security Projects"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile - Ch4120N Open Source Developer and Security Researcher"/></a>
-  <a href="https://t.me/Ch4120N" target="_blank" title="Contact Ch4120N on Telegram"><img src="https://img.shields.io/badge/Telegram-2B9BD2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact - Ch4120N Cybersecurity Consultant"/></a>
-</p>
+<div align="center">
+  
+  ![Snake animation](https://github.com/Ch4120N/Ch4120N/blob/dist/github-contribution-grid-snake.svg)
+  
+</div>
 
 ---
 
-## 💼 Freelance Availability & Consulting Services
+## 💼 **Services & Expertise**
 
-```diff
-+ ✅ Available for freelance projects, consulting & collaborations!
-```
-
-**Ch4120N is available for:** Cybersecurity consulting, penetration testing services, Linux server automation, custom security tool development, code reviews, security mentoring, and technical troubleshooting. Contact me for project requests, security audits, or collaboration opportunities.
-
----
-
-## ❤️ Support Me & Open Source Development
-
-**Support Ch4120N's Open Source Security Projects** - Your contributions help maintain and improve cybersecurity tools, penetration testing utilities, and automation scripts for the community.
-
-|    Cryptocurrency    |                     Address                      |
-| :------------------: | :----------------------------------------------: |
-| _**BTC (Bitcoin)**_  | **`bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0`** |
-| _**ETH (Ethereum)**_ | **`0xfddbd535a4ad28792cbebceee3d6982d774e6d13`** |
-| _**USDT (Tether)**_  |     **`3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`**     |
-
-> _Support the creator: donations are appreciated and help fund open source security development!_
-
-#### **If you are Iranian, you can donate in Tomans through the Donate Daramet portal:**
-
-<p>
-  <a href="https://daramet.com/Ch4120N" target="_blank" title="Donate to Ch4120N via Daramet Portal - Support Open Source Security Projects">
-    <img src="./images/icons/donate.png" 
-         alt="Donate Portal Daramet - Support Ch4120N Cybersecurity Projects and Open Source Development" 
-         height="50" />
-  </a>
-</p>
+<div align="center">
+  
+  | 🔒 **Cybersecurity** | ⚡ **Automation** | 🤖 **Development** | 🛠️ **Consulting** |
+  |:---:|:---:|:---:|:---:|
+  | Penetration Testing | Linux Server Automation | Custom Security Tools | Code Review |
+  | Vulnerability Assessment | System Hardening | Telegram Bots | Technical Consulting |
+  | Security Audits | Infrastructure Security | API Integrations | Security Mentoring |
+  | Ethical Hacking | DevOps Solutions | Open Source Projects | Troubleshooting |
+  
+</div>
 
 ---
 
-## 🧭 Personal Goals & Learning Roadmap
+## 🧱 **Certifications & Achievements**
 
-**Ch4120N's Professional Development Goals** - Continuous learning in cybersecurity, automation, and open source development.
-
-- 🚀 **Automation Excellence** - Automate everything (and then some) for improved security and efficiency
-- 📚 **Advanced Security Training** - Learn advanced AI & cyber-defense strategies, machine learning for security
-- 🌱 **Community Contribution** - Mentor and support the open-source community, share knowledge and tools
-- 🛡️ **Privacy-First Development** - Contribute to privacy-first tools, enhance digital security and privacy solutions
-
----
-
-## 🧩 Fun Facts & Easter Eggs
-
-**About Ch4120N** - Personal insights and preferences in cybersecurity and development.
-
-- 🕹️ **Command Line Humor** - `sudo ./coffee.sh` returns: "Caffeine boost initialized!"
-- 💬 **Philosophy** - _"The quieter you become, the more you are able to hear."_ - A mindset for security research and penetration testing
-- **🐧 Linux Expertise** - Linux is my OS of choice for security research, server administration, and ethical hacking
-
----
-
-## 🧬 AI & Automation Stack
-
-**Ch4120N's Automation & AI Tools** - Custom automation solutions and AI integration for cybersecurity and development workflows.
-
-- 🤖 **Custom Telegram Bots** - Security monitoring bots, notification systems, and automation tools
-- 🔗 **API Integrations** - Python and Bash scripts for API automation, web scraping, and security tool integration
-- 🧠 **AI & Machine Learning** - Experimenting with LLMs (Large Language Models) and prompt engineering for security research and automation
+<div align="center">
+  
+  ### 🧪 **Offensive Security**
+  
+  ![OSCP](https://img.shields.io/badge/OSCP-In_Progress-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white)
+  ![PWK](https://img.shields.io/badge/PWK-Complete-00FF00?style=for-the-badge&logo=offensive-security&logoColor=white)
+  
+  ### 🛡️ **Ethical Hacking**
+  
+  ![CEH](https://img.shields.io/badge/CEH-Certified-FF0000?style=for-the-badge&logo=ec-council&logoColor=white)
+  
+  ### 🎮 **CTF & Competitions**
+  
+  ![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
+  ![CTF](https://img.shields.io/badge/CTF-Top_10%25-FF0000?style=for-the-badge&logo=ctftime&logoColor=white)
+  
+</div>
 
 ---
 
-## 🧱 Certifications & Achievements
+## 🤝 **Connect With Me**
 
-**Ch4120N's Professional Certifications** - Industry-recognized cybersecurity certifications and competitive achievements in penetration testing and ethical hacking.
-
-- 🧪 **Offensive Security Certifications**
-  - [ ] OSCP — Offensive Security Certified Professional (in progress) - Advanced penetration testing certification
-  - [x] PWK — Penetration Testing with Kali Linux - Practical penetration testing course completion
-- 🛡️ **Ethical Hacking Certifications**
-  - [x] CEH — Certified Ethical Hacker - Certified ethical hacking professional certification
-- 🎮 **CTF & Practical Skills Achievements**
-  - [x] HackTheBox — Pro Hacker - Advanced penetration testing platform achievements
-  - [x] Top 10% in CTF Competitions - Competitive cybersecurity and capture the flag competition rankings
+<div align="center">
+  
+  [![ProtonMail](https://img.shields.io/badge/ProtonMail-A581FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Ch4120N@Proton.me)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ch4120N)
+  [![Telegram](https://img.shields.io/badge/Telegram-2B9BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ch4120N)
+  
+</div>
 
 ---
 
-## 📜 License & Usage Terms
+## 💡 **Currently Learning**
 
-**Open Source Licensing** - All tools and scripts are open-source under the MIT/Or CGBL License unless otherwise noted.  
-**Ethical Use Policy** - Use ethically and responsibly. These security tools are intended for authorized penetration testing, security research, and educational purposes only.
+<div align="center">
+  
+  ![OSCP](https://img.shields.io/badge/OSCP-Studying-FF0000?style=for-the-badge&logo=offensive-security&logoColor=white)
+  ![AI](https://img.shields.io/badge/AI_ML-Exploring-FF0000?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Cloud](https://img.shields.io/badge/Cloud_Security-Learning-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+</div>
 
 ---
 
-<p align="center">
-  <img src="./images//animated/animated2.gif" width="100" alt="Ch4120N Cybersecurity Expert - Hacker Animation Footer" />
-  <br>
-  <em><strong>Star ⭐ your favorite projects and let's build the future of cybersecurity together!</strong></em>
-  <br>
-  <em>Connect with Ch4120N for cybersecurity consulting, penetration testing services, and open source collaboration.</em>
-</p>
+## ❤️ **Support My Work**
+
+<div align="center">
+  
+  **Support Ch4120N's Open Source Security Projects**
+  
+  Your contributions help maintain and improve cybersecurity tools, penetration testing utilities, and automation scripts for the community.
+  
+  | Cryptocurrency | Address |
+  |:---:|:---:|
+  | **BTC** | `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0` |
+  | **ETH** | `0xfddbd535a4ad28792cbebceee3d6982d774e6d13` |
+  | **USDT** | `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN` |
+  
+  > 💰 _Donations are appreciated and help fund open source security development!_
+  
+  #### 🇮🇷 **For Iranian Supporters:**
+  
+  [![Daramet](https://img.shields.io/badge/Daramet-Donate-FF0000?style=for-the-badge)](https://daramet.com/Ch4120N)
+  
+</div>
+
+---
+
+## 🎯 **Goals & Roadmap**
+
+<div align="center">
+  
+  - 🚀 **Automate Everything** - Build comprehensive automation solutions
+  - 📚 **Advanced Security Training** - Master AI & ML for cybersecurity
+  - 🌱 **Community Contribution** - Mentor and support open-source community
+  - 🛡️ **Privacy-First Development** - Contribute to privacy-focused tools
+  
+</div>
+
+---
+
+## 🧩 **Fun Facts**
+
+<div align="center">
+  
+  ```bash
+  $ sudo ./coffee.sh
+  # Caffeine boost initialized! ☕
+  ```
+  
+  > _"The quieter you become, the more you are able to hear."_
+  
+  🐧 **Linux is my OS of choice** for security research and ethical hacking
+  
+</div>
+
+---
+
+## 📜 **License & Ethics**
+
+<div align="center">
+  
+  **Open Source Licensing** - All tools are open-source under MIT/CGBL License  
+  **Ethical Use Policy** - Tools are for authorized penetration testing, security research, and educational purposes only.
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="./images/animated/animated2.gif" width="150" alt="Ch4120N Cybersecurity Expert - Hacker Animation Footer" />
+  
+  ### ⭐ **Star my repositories if you find them useful!** ⭐
+  
+  **Let's build the future of cybersecurity together!** 🔥
+  
+  ![GitHub followers](https://img.shields.io/github/followers/Ch4120N?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/Ch4120N?style=social)
+  
+</div>
 
 ---
 
