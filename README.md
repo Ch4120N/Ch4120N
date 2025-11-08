@@ -405,6 +405,20 @@
 
 ---
 
+## 🤝 **Connect With Me**
+
+<div align="center">
+  
+  <h2>🌐 <strong>Let's Connect!</strong></h2>
+  
+  [![ProtonMail](https://img.shields.io/badge/ProtonMail-A581FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117)](mailto:Ch4120N@Proton.me)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Ch4120N)
+  [![Telegram](https://img.shields.io/badge/Telegram-2B9BD2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Ch4120N)
+  
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
