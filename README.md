@@ -558,6 +558,29 @@
 
 ---
 
+<div align="center">
+  
+  <img src="./images/animated/animated2.gif" width="200" alt="Ch4120N Footer Animation" />
+  
+  <h1>⭐ <strong>Star my repositories if you find them useful!</strong> ⭐</h1>
+  
+  <h2>🔥 <strong>Let's build the future of cybersecurity together!</strong> 🔥</h2>
+  
+  <br>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=65&section=footer&text=Thanks+for+visiting!+👋&fontColor=FFFFFF&fontSize=40" alt="Footer" />
+  
+</div>
+
+---
+
+<!--
+**Ch4120N/Ch4120N** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+
+SEO Keywords: Ch4120N, Cybersecurity Expert, Penetration Tester, Ethical Hacker, Linux Automation, Open Source Developer, Security Consultant, Bug Bounty Hunter, CTF Player, OSCP, CEH, Python Developer, Security Researcher, GitHub Profile
+-->
 
 ## 🚀 Featured Projects
 
