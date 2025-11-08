@@ -14,7 +14,7 @@
 <!-- Animated Typing Headline -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&repeat=false&pause=1500&color=FF0000&width=950&height=100&center=true&vCenter=true&multiline=true&lines=👋+Hi+there!+I'm+Ch4120N;🔥+Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;💻+Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher;⚡+Building+the+Future+of+Cybersecurity" alt="Ch4120N Animated Typing" width="85%" height="130px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&repeat=false&pause=1500&color=FF0000&width=950&height=100&center=true&vCenter=true&multiline=true&lines=Hi+there!+I'm+Ch4120N;Cybersecurity+Architect+%7C+Penetration+Tester+%7C+Linux+Automation+Expert;Open+Source+Developer+%7C+Ethical+Hacker+%7C+Security+Researcher;Building+the+Future+of+Cybersecurity" alt="Ch4120N Animated Typing" width="85%" height="130px" />
 
 </div>
 
