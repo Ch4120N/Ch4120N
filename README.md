@@ -232,6 +232,53 @@
 
 ---
 
+<div align="center">
+  <h2>🔥 <strong>Top Open Source Cybersecurity Projects</strong> 🔥</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-SMS-Bomber">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-SMS-Bomber&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false" width="100%" alt="Charon SMS Bomber"/>
+        </a>
+        <br>
+        <sub><strong>🔥 Charon SMS Bomber</strong></sub>
+        <br>
+        <sub>Powerful Iranian SMS Testing Tool</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-DNS-Changer-V1.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-DNS-Changer-V1.0&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false" width="100%" alt="Charon DNS Changer"/>
+        </a>
+        <br>
+        <sub><strong>⚡ Charon DNS Changer</strong></sub>
+        <br>
+        <sub>Fast DNS Configuration Tool</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/Charon-MD5-Hash-Cracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=Charon-MD5-Hash-Cracker&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false" width="100%" alt="Charon MD5 Hash Cracker"/>
+        </a>
+        <br>
+        <sub><strong>🔐 Charon MD5 Hash Cracker</strong></sub>
+        <br>
+        <sub>Fastest MD5 Brute Force Tool</sub>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Ch4120N/ChSSHKracker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ch4120N&repo=ChSSHKracker&theme=radical&border_color=FF0000&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=false" width="100%" alt="ChSSHKracker"/>
+        </a>
+        <br>
+        <sub><strong>💻 ChSSHKracker</strong></sub>
+        <br>
+        <sub>Advanced Multi-Threaded SSH Brute Force Tool with Honeypot Detection</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🛠️ Services Offered
 
 - 🔒 Cybersecurity & Pentesting
