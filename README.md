@@ -540,6 +540,24 @@
 
 ---
 
+## 📜 **License & Ethics**
+
+<div align="center">
+  
+  <h2>⚖️ <strong>Legal & Ethical Information</strong></h2>
+  
+  <p>
+    <strong>Open Source Licensing</strong> - All tools are open-source under MIT/CGBL License<br>
+    <strong>Ethical Use Policy</strong> - Tools are for authorized penetration testing, security research, and educational purposes only.
+  </p>
+  
+  <img src="https://img.shields.io/badge/License-MIT/CGBL-FF0000?style=for-the-badge&logo=creative-commons&logoColor=white&labelColor=0D1117" alt="License" />
+  <img src="https://img.shields.io/badge/Ethical_Use-Required-00FF00?style=for-the-badge&logo=shield-checkmark&logoColor=white&labelColor=0D1117" alt="Ethical Use" />
+  
+</div>
+
+---
+
 
 ## 🚀 Featured Projects
 
