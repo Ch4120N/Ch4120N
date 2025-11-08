@@ -41,13 +41,28 @@
 
 ---
 
-## 👋 Introduction & Personal Tagline
+## 🎯 **About Me**
 
 ```diff
-+ Cybersecurity Architect | Linux Automation | Open Source Hacker
++ 🔐 Cybersecurity Expert & Penetration Tester
++ ⚡ Linux Server Automation & Hardening Specialist  
++ 🤖 Custom Security Tools & Bot Developer
++ 🛠️ Open Source Contributor & Security Researcher
++ 💡 Freelance Developer & Technical Consultant
++ 🎓 Continuous Learner & Community Mentor
 ```
+  
+<br>
 
-Innovative, security-driven technologist focused on privacy, automation, and building robust tools for the modern digital landscape.
+
+<div align="center">
+
+  **Ch4120N** - A passionate security-driven technologist specializing in ethical hacking, penetration testing, and building robust cybersecurity solutions. Dedicated to privacy, automation, and contributing to the open-source security community.
+  
+</div>
+
+<br>
+
 
 ---
 
