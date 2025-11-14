@@ -4,6 +4,10 @@
   SEO Optimized: Cybersecurity Expert | Penetration Tester | Linux Automation Specialist | Open Source Developer
 -->
 
+<head>
+  <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
+</head>
+
 <!-- Animated Banner (SVG/GIF placeholder) -->
 <div align="center">
   <img src="./images/animated/animated1.gif" width="100%" alt="Ch4120N Cybersecurity Expert Banner" />
