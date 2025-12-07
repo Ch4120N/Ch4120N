@@ -1,12 +1,11 @@
+<head>
+  <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
+</head>
 <!--
   Ch4120N's GitHub Profile README
   Ultra Modern, Animated, and Visually Stunning Profile Landing Page
   SEO Optimized: Cybersecurity Expert | Penetration Tester | Linux Automation Specialist | Open Source Developer
 -->
-
-<head>
-  <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
-</head>
 
 <!-- Animated Banner (SVG/GIF placeholder) -->
 <div align="center">
