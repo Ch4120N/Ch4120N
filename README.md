@@ -299,7 +299,7 @@
   <h2>📈 <b>My GitHub Stats</b></h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4120N&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ch4120N&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ch4120N&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&border_radius=15" alt="Top Languages" width="49%" />
   
 </div>
 
