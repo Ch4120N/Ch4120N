@@ -75,13 +75,13 @@
 ---
 
 <!-- Activity Graph -->
-<div align="center">
+<!-- <div align="center">
   
   <h2>📈 <b>GitHub Activity Graph</b></h2>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ch4120N&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=Ch4120N&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area_color=FF0000" alt="GitHub Activity Graph" width="100%" />
   
-</div>
+</div> -->
 
 <br>
 
